@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Barlow; 
+    src: url("../../../Assets/fonts/Barlow-Regular.ttf"); 
+}
+.description {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    max-width: 132px;
+    font-family: Barlow;
+    font-style: normal;
+    font-size: 14px;
+    text-align: center;
+}
+.title {
+    color: #FFFFFF;
+    font-weight: 500;
+    line-height: 130%;
+}
+.price {
+    color: #FFFFFF;
+    font-weight: normal;
+    line-height: 140%;
+}
+.startValue {
+    color: #ABBBC2;
+    font-weight: normal;
+    line-height: 140%;
+}

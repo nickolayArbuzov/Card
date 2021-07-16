@@ -1,0 +1,9 @@
+.image {
+    width: 132px;
+    height: 132px;
+    border-radius: 50%;
+    background-color: black;
+    overflow: hidden;
+    position: relative;
+    top: -36px;
+}
